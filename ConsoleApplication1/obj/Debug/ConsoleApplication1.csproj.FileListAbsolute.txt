@@ -1,0 +1,6 @@
+C:\Users\vivacom.bg\Desktop\SoftUni\Fundamental Level\Team Project - C# game\Maze console game\MazeConsoleGame1.0\TheMaze\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\vivacom.bg\Desktop\SoftUni\Fundamental Level\Team Project - C# game\Maze console game\MazeConsoleGame1.0\TheMaze\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\vivacom.bg\Desktop\SoftUni\Fundamental Level\Team Project - C# game\Maze console game\MazeConsoleGame1.0\TheMaze\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\vivacom.bg\Desktop\SoftUni\Fundamental Level\Team Project - C# game\Maze console game\MazeConsoleGame1.0\TheMaze\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\vivacom.bg\Desktop\SoftUni\Fundamental Level\Team Project - C# game\Maze console game\MazeConsoleGame1.0\TheMaze\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\vivacom.bg\Desktop\SoftUni\Fundamental Level\Team Project - C# game\Maze console game\MazeConsoleGame1.0\TheMaze\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
